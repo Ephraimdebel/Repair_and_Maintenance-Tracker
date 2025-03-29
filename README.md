@@ -1,4 +1,15 @@
 # Repair and Maintenance Tracker
+---
+
+## Team Members
+| Name            | ID.NO       | Section |
+|----------------|------------|---------|
+| Ruth Ambaw     | UGR/8802/15 | 4       |
+| Alpha Degago   | UGR/4592/15 | 3       |
+| Saron Tadesse  | UGR/5471/15 | 4       |
+| Ephraim Debel  | UGR/0640/15 | 4       |
+
+---
 
 ## Project Overview
 Repair & Maintenance Tracker is a mobile application built with Jetpack Compose that enables users to log, track, and manage repair requests and maintenance schedules for personal items such as electronics, vehicles, or home appliances. The app ensures secure authentication and operates with a local backend using Node.js and MySQL, following a structured CRUD-based approach.
@@ -43,16 +54,6 @@ The system includes two business features, authentication and authorization, a b
 - **Database:** MySQL (Local Storage)
 - **Authentication:** JWT-Based Authentication
 
----
 
-## Team Members
-| Name            | ID.NO       | Section |
-|----------------|------------|---------|
-| Ruth Ambaw     | UGR/8802/15 | 4       |
-| Alpha Degago   | UGR/4592/15 | 3       |
-| Saron Tadesse  | UGR/5471/15 | 4       |
-| Ephraim Debel  | UGR/0640/15 | 4       |
-
----
 
 
